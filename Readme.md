@@ -2,7 +2,7 @@
 
 Recreation of the classic 2D game using C++ and OpenGL.
 
-Thank you Joel De Vries for making avaliable this amazing resource on learnopengl.com!
+Thank you Joey De Vries for making avaliable this amazing resource on learnopengl.com!
 
 # License
 
