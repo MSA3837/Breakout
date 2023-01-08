@@ -305,6 +305,7 @@
     <ClInclude Include="Source\Game.h" />
     <ClInclude Include="Source\ResourceManager.h" />
     <ClInclude Include="Source\Shader.h" />
+    <ClInclude Include="Source\SpriteRenderer.h" />
     <ClInclude Include="Source\Texture.h" />
   </ItemGroup>
   <ItemGroup>
@@ -314,6 +315,7 @@
     <ClCompile Include="Source\Program.cpp" />
     <ClCompile Include="Source\ResourceManager.cpp" />
     <ClCompile Include="Source\Shader.cpp" />
+    <ClCompile Include="Source\SpriteRenderer.cpp" />
     <ClCompile Include="Source\Texture.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -453,6 +455,8 @@
     <None Include="Source\External\glm\gtx\vector_angle.inl" />
     <None Include="Source\External\glm\gtx\vector_query.inl" />
     <None Include="Source\External\glm\gtx\wrap.inl" />
+    <None Include="Source\Shaders\Sprite.frag" />
+    <None Include="Source\Shaders\Sprite.vrtx" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
