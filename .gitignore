@@ -1,0 +1,9 @@
+# Visual Studio
+
+.vs/
+*.user
+*.filters
+
+# Builds
+[Bb]in/
+[Bb]in-[Ii]nt/
