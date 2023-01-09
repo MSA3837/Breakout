@@ -303,6 +303,9 @@
     <ClInclude Include="Source\External\glm\vector_relational.hpp" />
     <ClInclude Include="Source\External\stb_image\stb_image.h" />
     <ClInclude Include="Source\Game.h" />
+    <ClInclude Include="Source\GameLevel.h" />
+    <ClInclude Include="Source\GameObject.h" />
+    <ClInclude Include="Source\Levels\SpaceInvaders.lvl" />
     <ClInclude Include="Source\ResourceManager.h" />
     <ClInclude Include="Source\Shader.h" />
     <ClInclude Include="Source\SpriteRenderer.h" />
@@ -312,6 +315,8 @@
     <ClCompile Include="Source\External\glm\detail\glm.cpp" />
     <ClCompile Include="Source\External\stb_image\stb_image.cpp" />
     <ClCompile Include="Source\Game.cpp" />
+    <ClCompile Include="Source\GameLevel.cpp" />
+    <ClCompile Include="Source\GameObject.cpp" />
     <ClCompile Include="Source\Program.cpp" />
     <ClCompile Include="Source\ResourceManager.cpp" />
     <ClCompile Include="Source\Shader.cpp" />
@@ -455,6 +460,9 @@
     <None Include="Source\External\glm\gtx\vector_angle.inl" />
     <None Include="Source\External\glm\gtx\vector_query.inl" />
     <None Include="Source\External\glm\gtx\wrap.inl" />
+    <None Include="Source\Levels\BounceGalore.lvl" />
+    <None Include="Source\Levels\FewSmallGaps.lvl" />
+    <None Include="Source\Levels\Standard.lvl" />
     <None Include="Source\Shaders\Sprite.frag" />
     <None Include="Source\Shaders\Sprite.vrtx" />
   </ItemGroup>
